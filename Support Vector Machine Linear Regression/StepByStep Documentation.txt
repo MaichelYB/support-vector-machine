@@ -1,0 +1,5 @@
+1. Download pip : python -m pip install -U pip
+2. Download matplotlib : python -m pip install -U matplotlib
+3. Download scipy : python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+4. Download seaborn : pip install seaborn
+5. Download sci-kit : pip install -U scikit-learn
